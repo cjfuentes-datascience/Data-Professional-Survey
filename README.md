@@ -1,7 +1,5 @@
 # Data-Professional-Survey
 
-This project involves analyzing data from a survey of data professionals, including their demographics, skills, and experience, and presenting the results in a Power BI dashboard.
-
 To view the Power BI dashboard, you will need to open the .pbix file in Power BI Desktop. You can use the PDF file to see a static version of the dashboard, or to get an overview of the analysis and findings.
 
 To view the dashboard, you can follow these steps:
